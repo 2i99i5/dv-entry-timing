@@ -1,0 +1,92 @@
+[
+  {
+    "year": 2017,
+    "file": "FY2017-ceac-current.csv",
+    "sha256": "84c55c688cb4e10d717b7002785eb376a178f83f6cef33c7bd060d0fc6bbd992",
+    "bytes": 5227880,
+    "delimiter": ";",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2018,
+    "file": "FY2018-ceac-current.csv",
+    "sha256": "95062ab93dde9e84d8771e7b1ef60696a08bd0771b0d160f5d8f2e06506dbe8e",
+    "bytes": 6623438,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2019,
+    "file": "FY2019-ceac-current.csv",
+    "sha256": "bac2345cf161d7bc57fa405dea99136989bde2ef7317f9218f2ef80cdd288053",
+    "bytes": 5838167,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2020,
+    "file": "FY2020-ceac-current.csv",
+    "sha256": "0b719316401b3c4cb39300e7248d9949e32ff1792477781a39ddda1e27e6fefb",
+    "bytes": 9471383,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2021,
+    "file": "FY2021-ceac-current.csv",
+    "sha256": "fc571d551aa7ef9b79349b5c16cf1ed5a6ea70e5912583e444c3330fe96f552a",
+    "bytes": 10246629,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2022,
+    "file": "FY2022-ceac-current.csv",
+    "sha256": "713be95d601b6c3ed37cda86b1731e1a94ee5e2f3ed928139804532439f3a765",
+    "bytes": 8756254,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2023,
+    "file": "FY2023-ceac-current.csv",
+    "sha256": "5e2ac273e750d9e3e6777e9d5800fa61f8f821419f6d21a66184fbdfc2054833",
+    "bytes": 8798437,
+    "delimiter": ",",
+    "snapshot_date": null,
+    "provenance": "author's legacy local snapshot; capture date unknown"
+  },
+  {
+    "year": 2024,
+    "file": "FY2024-ceac-current.csv",
+    "sha256": "e454a5c017afb3cf00557cd54b290aa2f2a1acde6eadb6ef50cbb8df030c0847",
+    "bytes": 15721511,
+    "delimiter": ",",
+    "snapshot_date": "2024-10-01",
+    "provenance": "dated public archive"
+  },
+  {
+    "year": 2025,
+    "file": "FY2025-ceac-current.csv",
+    "sha256": "15a7acc2d3d8437a4adc6dce98b03539a892f30c60523bb55eb1153516babeab",
+    "bytes": 10820755,
+    "delimiter": ",",
+    "snapshot_date": "2025-10-01",
+    "provenance": "dated public archive"
+  },
+  {
+    "year": 2026,
+    "file": "FY2026-ceac-current.csv",
+    "sha256": "3f97aecb5e8ec7044b6379a3ebb99aa1622d6c053370b358454ad651b0936789",
+    "bytes": 22364762,
+    "delimiter": ",",
+    "snapshot_date": "2026-08-22",
+    "provenance": "dated public archive"
+  }
+]

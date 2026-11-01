@@ -1,0 +1,35 @@
+[
+  {
+    "year": 2024,
+    "snapshot_date": "2024-10-01",
+    "url": "https://dvcharts.github.io/data/raw/24/FY2024-ceac-2024-10-01.csv.gz",
+    "index_url": "https://db.ceac.xarthisius.xyz/2024.json?shallow=true",
+    "downloaded_at_utc": "2026-11-01T20:41:43.289433+00:00",
+    "last_modified": "Fri, 21 Aug 2026 23:12:18 GMT",
+    "bytes": 15721511,
+    "rows": 243307,
+    "sha256": "e454a5c017afb3cf00557cd54b290aa2f2a1acde6eadb6ef50cbb8df030c0847"
+  },
+  {
+    "year": 2025,
+    "snapshot_date": "2025-10-01",
+    "url": "https://dvcharts.github.io/data/raw/25/FY2025-ceac-2025-10-01.csv.gz",
+    "index_url": "https://db.ceac.xarthisius.xyz/2025.json?shallow=true",
+    "downloaded_at_utc": "2026-11-01T20:41:45.524522+00:00",
+    "last_modified": "Fri, 21 Aug 2026 23:12:19 GMT",
+    "bytes": 10820755,
+    "rows": 165639,
+    "sha256": "15a7acc2d3d8437a4adc6dce98b03539a892f30c60523bb55eb1153516babeab"
+  },
+  {
+    "year": 2026,
+    "snapshot_date": "2026-08-22",
+    "url": "https://dvcharts.github.io/data/raw/26/FY2026-ceac-2026-08-22.csv.gz",
+    "index_url": "https://db.ceac.xarthisius.xyz/2026.json?shallow=true",
+    "downloaded_at_utc": "2026-11-01T20:41:49.099457+00:00",
+    "last_modified": "Fri, 21 Aug 2026 23:12:19 GMT",
+    "bytes": 22364762,
+    "rows": 328505,
+    "sha256": "3f97aecb5e8ec7044b6379a3ebb99aa1622d6c053370b358454ad651b0936789"
+  }
+]

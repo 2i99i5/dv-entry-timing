@@ -1,0 +1,75 @@
+year,status,cases,dated
+2017,Administrative Processing,1831,1831
+2017,At NVC,23719,0
+2017,In Transit,15,0
+2017,Issued,24695,24695
+2017,Ready,2404,2404
+2017,Refused,4266,4266
+2017,Returned to NVC,1,0
+2017,Transfer in Progress,6,6
+2018,Administrative Processing,1569,1569
+2018,At NVC,31719,0
+2018,In Transit,1,0
+2018,Issued,23845,23845
+2018,Ready,3623,3623
+2018,Refused,5875,5875
+2018,Transfer in Progress,3,3
+2019,Administrative Processing,853,853
+2019,At NVC,20730,0
+2019,In Transit,3,0
+2019,Issued,22143,22143
+2019,Ready,1025,1025
+2019,Refused,4881,4881
+2019,Transfer in Progress,3,3
+2020,Administrative Processing,5,5
+2020,At NVC,32891,0
+2020,In Transit,1,0
+2020,Issued,9594,9594
+2020,Ready,3548,3548
+2020,Refused,2235,2235
+2020,Transfer in Progress,24,24
+2021,Administrative Processing,2,2
+2021,At NVC,61228,0
+2021,In Transit,9,0
+2021,Issued,8857,8857
+2021,Ready,746,746
+2021,Refused,1039,1039
+2021,Transfer in Progress,1,1
+2022,Administrative Processing,23,23
+2022,At NVC,30160,0
+2022,In Transit,31,0
+2022,Issued,27003,27003
+2022,Ready,1989,1989
+2022,Refused,4147,4147
+2022,Transfer in Progress,14,14
+2023,AP,1,1
+2023,Issued,26898,26898
+2023,NVC,28082,0
+2023,Ready,4348,4348
+2023,Refused,2061,2061
+2023,Refused221g,1710,1710
+2023,Transfer,22,22
+2024,AP,6,6
+2024,InTransit,15,0
+2024,Issued,26099,26099
+2024,NVC,41524,0
+2024,Ready,2929,2929
+2024,Refused,2635,2635
+2024,Refused221g,1019,1019
+2024,Returned,1,1
+2024,Transfer,11,11
+2025,AP,1,1
+2025,Issued,22580,22580
+2025,NVC,40115,0
+2025,Ready,3887,3887
+2025,Refused,3111,3111
+2025,Refused221g,1035,1035
+2025,Transfer,16,16
+2026,Dark,14643,0
+2026,InTransit,9,0
+2026,Issued,3312,3312
+2026,NVC,46898,0
+2026,Ready,783,783
+2026,Refused,292,292
+2026,Refused221g,65,65
+2026,Transfer,1,1
